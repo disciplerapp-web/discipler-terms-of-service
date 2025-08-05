@@ -1,7 +1,3 @@
----
-title: Terms of Service
-layout: default
----
 
 # Terms of Service for Discipler  
 **Last updated: August 5, 2025**  
